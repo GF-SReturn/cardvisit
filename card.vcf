@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Senior Visitante
+N:Visitante;Senior;;;
+ORG:GreenFox
+TITLE:
+TEL;TYPE=CELL,VOICE:+31 6 12 34 56 78
+TEL;TYPE=WORK,VOICE:+31 70 8200 521
+ADR;TYPE=WORK:;;Binckhorstlaan 303;Den Haag;;2516 BC;Netherlands
+EMAIL;TYPE=INTERNET:senior@greenfox.nl
+URL:https://www.greenfox.nl
+END:VCARD
